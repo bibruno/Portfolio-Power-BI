@@ -25,7 +25,7 @@ Estes são alguns exemplos de dashboards simples e funcionais.
 
 ## Sales Dashboard
 
-![Gif que exemplifica o funcionamento do Sales Dashboard](https://i.imgur.com/TmvcXJy.gif)
+![Gif que exemplifica o funcionamento do Sales Dashboard](https://i.imgur.com/Khh7jIt.gif)
 
 #### Principais elementos da tabela fato:
 - PRODUCT ID
