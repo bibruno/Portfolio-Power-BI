@@ -5,10 +5,9 @@ Estes são alguns exemplos de dashboards simples e funcionais.
 - [Dashboard RH](https://github.com/bibruno/Portfolio-Power-BI/tree/master/Girassol%20RH)
 - [Sales Vendas](https://github.com/bibruno/Portfolio-Power-BI/tree/master/Sales%20Vendas)
 
-
 ## Girassol RH
 
-![Gif que exemplifica o funcionando do Dashboard RH](https://i.imgur.com/7FLV0gf.gif[/img])
+![Gif que exemplifica o funcionamento do Dashboard RH](https://i.imgur.com/7FLV0gf.gif)
 
 #### Principais elementos da tabela fato:
 - cpf_func
@@ -25,7 +24,9 @@ Estes são alguns exemplos de dashboards simples e funcionais.
 - mes (DAX - dCalendario)
 
 ## Sales Dashboard
-![Gif que exemplifica o funcionando do Sales Dashboard](https://i.imgur.com/TmvcXJy.gif[/img])
+
+![Gif que exemplifica o funcionamento do Sales Dashboard](https://i.imgur.com/TmvcXJy.gif)
+
 #### Principais elementos da tabela fato:
 - PRODUCT ID
 - QUANTITY
@@ -41,5 +42,4 @@ Total Sales, Total Profit, Total Product, Top Category, Profit%
 - BUYING PRIZE
 - CATEGORY
 - PRODUCT
-- PRODUCT ID
 - PRODUCT ID
