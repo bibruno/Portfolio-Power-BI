@@ -1,0 +1,27 @@
+{
+    "name": "tailwind",
+    "dataColors": [
+        "#3f3f37",
+        "#d6d6b1",
+        "#494331",
+        "#878472",
+        "#de541e"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#3f3f37",
+    "tableAccent": "#d6d6b1",
+    "foregroundNeutralSecondary": "#494331",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "visualHeader": {
+                    "foreground": {
+                        "solid": {
+                            "color": "#3f3f37"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
