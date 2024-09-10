@@ -1,0 +1,31 @@
+﻿{
+    "name": "sunflower",
+    "dataColors": [
+      "#E6B800",
+      "#FFA000",
+      "#FB8C00",
+      "#EF6C00",
+      "#E64A19",
+      "#D84315",
+      "#FBC02D",
+      "#FF8F00"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#E6B800",
+    "tableAccent": "#FFA000",
+    "foregroundNeutralSecondary": "#EF6C00",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "visualHeader": {
+            "foreground": {
+              "solid": {
+                "color": "#E6B800"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
