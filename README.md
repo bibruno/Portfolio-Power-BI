@@ -10,10 +10,14 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 - [Sales Dashboard](#sales-dashboard)
 - [Girassol RH](#girassol-rh)
 
+
 ---
+<br>
+<br>
+
 
 # Aquecimento Global
-[Repositório - Aquecimento Global](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Clima)
+<a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Clima" target="_blank">Repositório -  Aquecimento Global</a>
 
 ![Aquecimento Global](https://i.imgur.com/UprzyHN.jpeg)
 
@@ -26,10 +30,19 @@ Na confecção do gráfico que mostra as oito capitais que tiveram maior aumento
 
 ##### Global
 Para construir o gráfico da previsão de temperatura (parte inferior do relatório), o primeiro passo, logo após carregar os dados, foi ajustar a granularidade, pois as informações eram apresentadas em várias datas ao decorrer de um ano. Foi resumido a média dos dados por ano utilizando DAX para criar uma nova tabela resumindo a fonte original. Com os valores da média agora concentrados por ano, calculei o `vSLOPE` e `vIntercept` fazendo uso do comando `LINESTX`, tornando assim possível o cálculo da Regressão Linear e, consequentemente, as previsões para datas futuras.
+<br>
+
+[Voltar para Dashboards](#dashboards)
 
 ---
+<br>
+<br>
+<br>
+<br>
+
 # Pizzaria
-[Repositório - Pizzaria](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Pizzaria)
+<a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Pizzaria" target="_blank">Repositório - Pizzaria</a>
+
 
 ![Gif que exemplifica o funcionamento do Sales Dashboard](https://i.imgur.com/qTdY7KQ.gif)
 
@@ -69,11 +82,20 @@ Apresentei esses insights usando Cartões Visuais intitulados "Mais Vendida" e "
 **4. Qual é o valor médio dos pedidos?**
 
 A fórmula `MedianOrder$` calcula o valor mediano dos pedidos. Visualizando essa métrica através de um Cartão Visual intitulado "Valor Mediano por Pedido," consigo fornecer uma representação clara do valor médio dos pedidos, dando insights sobre o comportamento de compra dos clientes.
+<br>
+<br>
+
+[Voltar para Dashboards](#dashboards)
 
 ---
+<br>
+<br>
+<br>
+<br>
+
 
 # Sales Dashboard
-[Repositório - Sales Vendas](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Sales%20Vendas)
+<a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Sales%20Vendas" target="_blank">Repositório - Sales Vendas</a>
 
 ![Gif que exemplifica o funcionamento do Sales Dashboard](https://i.imgur.com/Khh7jIt.gif)
 
@@ -103,13 +125,20 @@ Para calcular o lucro total, usei a fórmula `Total Profit`:
 
 A fórmula `Total Sales` calcula a receita total de vendas:
 - `Total Sales` é calculada somando o valor das vendas para cada transação. Isso inclui a quantidade vendida, o preço de venda após desconto, e ajuda a entender a receita total gerada com as vendas.
+<br>
+<br>
 
-
+[Voltar para Dashboards](#dashboards)
 
 ---
+<br>
+<br>
+<br>
+<br>
 
 # Girassol RH
-[Repositório - Girassol RH](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Girassol%20RH)
+<a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Girassol%20RH" target="_blank">Repositório - Girassol RH</a>
+
 
 
 ![Gif que exemplifica o funcionamento do Dashboard RH](https://i.imgur.com/7FLV0gf.gif)
