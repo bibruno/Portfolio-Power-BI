@@ -12,7 +12,8 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 
 ---
 
-## Aquecimento Global [PT-BR]
+# Aquecimento Global
+[Repositório - Aquecimento Global](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Clima)
 
 ![Aquecimento Global](https://i.imgur.com/UprzyHN.jpeg)
 
@@ -26,13 +27,9 @@ Na confecção do gráfico que mostra as oito capitais que tiveram maior aumento
 ##### Global
 Para construir o gráfico da previsão de temperatura (parte inferior do relatório), o primeiro passo, logo após carregar os dados, foi ajustar a granularidade, pois as informações eram apresentadas em várias datas ao decorrer de um ano. Foi resumido a média dos dados por ano utilizando DAX para criar uma nova tabela resumindo a fonte original. Com os valores da média agora concentrados por ano, calculei o `vSLOPE` e `vIntercept` fazendo uso do comando `LINESTX`, tornando assim possível o cálculo da Regressão Linear e, consequentemente, as previsões para datas futuras.
 
-#### Limitações e possíveis melhorias:
-- **Limitações**: Os dados mais recentes disponíveis são de 2013, o que limita a precisão das previsões para os anos seguintes. Além disso, a granularidade dos dados originais exige tratamento para evitar distorções.
-- **Melhorias futuras**: Atualizar o dataset com dados mais recentes poderia melhorar as previsões. Além disso, a incorporação de variáveis adicionais, como poluição ou desmatamento, poderia enriquecer o modelo de previsão.
-
 ---
-
-## Pizzaria [PT-BR]
+# Pizzaria
+[Repositório - Pizzaria](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Pizzaria)
 
 ![Gif que exemplifica o funcionamento do Sales Dashboard](https://i.imgur.com/qTdY7KQ.gif)
 
@@ -73,13 +70,10 @@ Apresentei esses insights usando Cartões Visuais intitulados "Mais Vendida" e "
 
 A fórmula `MedianOrder$` calcula o valor mediano dos pedidos. Visualizando essa métrica através de um Cartão Visual intitulado "Valor Mediano por Pedido," consigo fornecer uma representação clara do valor médio dos pedidos, dando insights sobre o comportamento de compra dos clientes.
 
-#### Limitações e possíveis melhorias:
-- **Limitações**: O dataset utilizado é relativamente pequeno, o que pode limitar a análise para diferentes cenários e previsões mais detalhadas. Além disso, não há segmentação por outros fatores, como promoções ou condições climáticas.
-- **Melhorias futuras**: Incorporar dados adicionais, como promoções, avaliações de clientes e sazonalidade, poderia proporcionar insights mais detalhados sobre o comportamento dos clientes e as vendas.
-
 ---
 
-## Sales Dashboard [PT-BR]
+# Sales Dashboard
+[Repositório - Sales Vendas](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Sales%20Vendas)
 
 ![Gif que exemplifica o funcionamento do Sales Dashboard](https://i.imgur.com/Khh7jIt.gif)
 
@@ -110,13 +104,13 @@ Para calcular o lucro total, usei a fórmula `Total Profit`:
 A fórmula `Total Sales` calcula a receita total de vendas:
 - `Total Sales` é calculada somando o valor das vendas para cada transação. Isso inclui a quantidade vendida, o preço de venda após desconto, e ajuda a entender a receita total gerada com as vendas.
 
-#### Limitações e possíveis melhorias:
-- **Limitações**: O dashboard não inclui informações sobre devoluções, reembolsos ou produtos com problemas. Além disso, a análise é estática e não permite previsões de vendas futuras.
-- **Melhorias futuras**: A inclusão de previsões de vendas e a análise de devoluções ou reembolsos proporcionariam uma visão mais completa da saúde financeira da empresa.
+
 
 ---
 
-## Girassol RH [PT-BR]
+# Girassol RH
+[Repositório - Girassol RH](https://github.com/bibruno/Portfolio-Power-BI/tree/main/Girassol%20RH)
+
 
 ![Gif que exemplifica o funcionamento do Dashboard RH](https://i.imgur.com/7FLV0gf.gif)
 
