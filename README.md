@@ -5,6 +5,7 @@ Este portfólio foi criado por **Bruno Bignotto**, um analista de BI com mais de
 Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma breve descrição sobre os dados, o tratamento aplicado, as principais funcionalidades e possíveis melhorias futuras.
 
 ## Dashboards
+- [Network](#Network)
 - [Aquecimento Global](#aquecimento-global)
 - [Pizzaria](#pizzaria)
 - [Sales Dashboard](#sales-dashboard)
@@ -13,8 +14,33 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 
 ---
 <br>
+
+
+# Network
+Para maiores detalhes, consulte o repositório aqui: <a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Network" target="_blank">Repositório -  Network</a>  
+
+
+![Network](https://i.imgur.com/vtjtyMe.png)
+
+#### Criação dos dados:
+Utilizei o Google Sheet para gerar os dados de forma aleatória.
+Como a aleatoriedade tende a ser uniforme, variei em alguns trechos o intervalo de aleatoriedade. 
+
+###### Objetivo:
+Criar um portfólio que simule ambientes que já lidei.
+
+###### Utilidade:
+Através desse dashboard é possível tomar decisões de nível gerencial para melhoria contínua.
+Através de 5 páginas, se tem graficamente a representação de dados importantes como; "Quantidade de Chamados por Causa Raiz", "Tempo médio de Resolução" e "Disponibilidade".
 <br>
 
+[Voltar para Dashboards](#dashboards)
+
+---
+<br>
+<br>
+<br>
+<br>
 
 # Aquecimento Global
 <a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Clima" target="_blank">Repositório -  Aquecimento Global</a>
