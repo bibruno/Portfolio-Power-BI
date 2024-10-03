@@ -20,16 +20,16 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 Para maiores detalhes, consulte o repositório aqui: <a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Network" target="_blank">Repositório -  Network</a>  
 
 
-![Network](https://i.imgur.com/vtjtyMe.png)
+![Network](https://i.imgur.com/oeqWcKT.png)
 
 #### Criação dos dados:
 Utilizei o Google Sheet para gerar os dados de forma aleatória.
 Como a aleatoriedade tende a ser uniforme, variei em alguns trechos o intervalo de aleatoriedade. 
 
-###### Objetivo:
+##### Objetivo:
 Criar um portfólio que simule ambientes que já lidei.
 
-###### Utilidade:
+##### Utilidade:
 Através desse dashboard é possível tomar decisões de nível gerencial para melhoria contínua.
 Através de 5 páginas, se tem graficamente a representação de dados importantes como; "Quantidade de Chamados por Causa Raiz", "Tempo médio de Resolução" e "Disponibilidade".
 <br>
