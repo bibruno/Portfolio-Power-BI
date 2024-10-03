@@ -182,8 +182,3 @@ A fórmula `Total Sales` calcula a receita total de vendas:
 - Nivel (dCargos)
 - tipo_func (dTipoFuncionario)
 - mês (DAX - dCalendario)
-
-#### Limitações e possíveis melhorias:
-- **Limitações**: O dashboard atual não inclui informações sobre turnover ou rotatividade de funcionários, nem a análise de retenção por faixas etárias ou cargos.
-- **Melhorias futuras**: A inclusão de indicadores de turnover, análise de tempo de permanência e métricas de satisfação poderiam ajudar a fornecer insights mais aprofundados para a gestão de pessoas.
-"# Portfolio-Power-BI" 
