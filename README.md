@@ -71,7 +71,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 - Período: 1º Semestre 2024
 
 #### 4. Perfil do Cliente Ideal
-![Resultado 2](https://i.imgur.com/nO4sisF.gif)
+![Resultado 2](https://i.imgur.com/TAdrDX7.gif)
 **Características-Chave**  
 - Cargos: CTO (32%), Diretor TI (28%), Gerente TI (24%)
 - Porte: Empresas >50 funcionários (89%)
