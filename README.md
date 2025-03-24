@@ -18,7 +18,7 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 
 # Fúnil de Vendas
 
-![Preview do Dashboard](https://i.imgur.com/LhALGBT.gif)
+![Preview do Dashboard](https://i.imgur.com/tAiMmDe.gif)
 
 ### 📊 Estrutura do Relatório
 
