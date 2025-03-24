@@ -81,7 +81,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 1. Faça download do arquivo `.pbix`
 2. Abra no Power BI Desktop (versão 2.120+)
 3. Interaja com:
-   - Botôes
+   - Botões
    - Cross-filtering entre visualizações
 
 ## 📁 Fontes de Dados
