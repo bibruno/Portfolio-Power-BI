@@ -5,6 +5,7 @@ Este portfólio foi criado por **Bruno Bignotto**, um analista de BI com mais de
 Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma breve descrição sobre os dados, o tratamento aplicado, as principais funcionalidades e possíveis melhorias futuras.
 
 ## Dashboards
+- [Fúnil de Vendas](#fúnil-de-vendas)
 - [Network](#Network)
 - [Aquecimento Global](#aquecimento-global)
 - [Pizzaria](#pizzaria)
@@ -18,9 +19,10 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 # Fúnil de Vendas
 
 ![Preview do Dashboard](https://i.imgur.com/LhALGBT.gif)
-## 📊 Estrutura do Relatório
 
-### 1. Visão Geral (Jan-Mar 2024)
+### 📊 Estrutura do Relatório
+
+#### 1. Visão Geral (Jan-Mar 2024)
 **Insight Central**  
 Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 
@@ -37,7 +39,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 - Período: 1º Trimestre 2024
 - Meses: Jan, Fev, Mar
 
-### 2. Estudo de Caso (Impacto das Campanhas)
+#### 2. Estudo de Caso (Impacto das Campanhas)
 **Problema Identificado**  
 - Tempo médio de resposta: 76 horas
 - Campanhas genéricas geravam 135 leads/mês
@@ -55,7 +57,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 **Filtros**  
 - Período: Jan-Abr 2024
 
-### 3. Resultados Pós-Otimização
+#### 3. Resultados Pós-Otimização
 **Performance Trimestral**  
 - Crescimento de 358,9% nas vendas (Q2 vs Q1)
 - Aumento de 301,97% em leads qualificados
@@ -67,25 +69,17 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 **Filtros**  
 - Período: 1º Semestre 2024
 
-### 4. Perfil do Cliente Ideal
+#### 4. Perfil do Cliente Ideal
 **Características-Chave**  
 - Cargos: CTO (32%), Diretor TI (28%), Gerente TI (24%)
 - Porte: Empresas >50 funcionários (89%)
 
-**Recomendações**  
-- Expandir para:
-  - Cargos adjacentes (Gerente Inovação)
-  - Empresas 10-50 funcionários
-
-**Visualizações**  
-- Funil: Conversão por cargo/porte
-- Evolução temporal de métricas
 
 ## ⚙️ Como Utilizar
 1. Faça download do arquivo `.pbix`
 2. Abra no Power BI Desktop (versão 2.120+)
 3. Interaja com:
-   - Tooltips em gráficos
+   - Botôes
    - Cross-filtering entre visualizações
 
 ## 📁 Fontes de Dados
