@@ -48,7 +48,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 - Segmentação estratégica a partir de Abril/2024
 
 **Resultado**  
-📈 Aumento de 327% nos leads qualificados (média de 443/mês)
+📈 Aumento de 327% nos leads qualificados
 
 **Visualizações**  
 - Pizza: Fontes de vendas
@@ -73,8 +73,8 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 #### 4. Perfil do Cliente Ideal
 ![Resultado 2](https://i.imgur.com/TAdrDX7.gif)
 **Características-Chave**  
-- Cargos: CTO (32%), Diretor TI (28%), Gerente TI (24%)
-- Porte: Empresas >50 funcionários (89%)
+- Cargos: CTO , Diretor TI , Gerente TI 
+- Porte: Empresas >50 funcionários 
 
 
 ## ⚙️ Como Utilizar
