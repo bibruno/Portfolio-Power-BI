@@ -15,6 +15,89 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 ---
 <br>
 
+# Fúnil de Vendas
+
+![Preview do Dashboard](https://i.imgur.com/LhALGBT.gif)
+## 📊 Estrutura do Relatório
+
+### 1. Visão Geral (Jan-Mar 2024)
+**Insight Central**  
+Média de conversão de vendas de apenas 2,64% contra benchmark do setor
+
+**Principais Métricas**  
+- 8.968 Leads Gerados
+- 406 Leads Qualificados (4,53% do total)
+- 236 Vendas Efetivadas
+
+**Visualizações**  
+- Cards: Totais de leads e vendas
+- Gráfico de Barras: Evolução mensal de leads qualificados vs vendas
+
+**Filtros**  
+- Período: 1º Trimestre 2024
+- Meses: Jan, Fev, Mar
+
+### 2. Estudo de Caso (Impacto das Campanhas)
+**Problema Identificado**  
+- Tempo médio de resposta: 76 horas
+- Campanhas genéricas geravam 135 leads/mês
+
+**Ação Implementada**  
+- Segmentação estratégica a partir de Abril/2024
+
+**Resultado**  
+📈 Aumento de 327% nos leads qualificados (média de 443/mês)
+
+**Visualizações**  
+- Pizza: Fontes de vendas
+- Comparativo antes/depois das campanhas
+
+**Filtros**  
+- Período: Jan-Abr 2024
+
+### 3. Resultados Pós-Otimização
+**Performance Trimestral**  
+- Crescimento de 358,9% nas vendas (Q2 vs Q1)
+- Aumento de 301,97% em leads qualificados
+
+**Destaques**  
+- Gráfico de conversão trimestral (QoQ)
+- Análise por fontes mais eficientes
+
+**Filtros**  
+- Período: 1º Semestre 2024
+
+### 4. Perfil do Cliente Ideal
+**Características-Chave**  
+- Cargos: CTO (32%), Diretor TI (28%), Gerente TI (24%)
+- Porte: Empresas >50 funcionários (89%)
+
+**Recomendações**  
+- Expandir para:
+  - Cargos adjacentes (Gerente Inovação)
+  - Empresas 10-50 funcionários
+
+**Visualizações**  
+- Funil: Conversão por cargo/porte
+- Evolução temporal de métricas
+
+## ⚙️ Como Utilizar
+1. Faça download do arquivo `.pbix`
+2. Abra no Power BI Desktop (versão 2.120+)
+3. Interaja com:
+   - Tooltips em gráficos
+   - Cross-filtering entre visualizações
+
+## 📁 Fontes de Dados
+- Dados gerados em Python
+- Pesquisa de Benchmarking (Setor)
+
+## 📌 Insights Chave
+1. Campanhas segmentadas aumentaram conversão em 3x
+2. Tempo de resposta impacta diretamente na qualificação
+3. 72% das vendas vêm de 3 cargos específicos
+
+
 
 # Network
 Para maiores detalhes, consulte o repositório aqui: <a href="https://github.com/bibruno/Portfolio-Power-BI/tree/main/Network" target="_blank">Repositório -  Network</a>  
