@@ -18,11 +18,10 @@ Abaixo, você encontrará alguns dos dashboards criados, cada um deles com uma b
 
 # Fúnil de Vendas
 
-![Preview do Dashboard](https://i.imgur.com/tAiMmDe.gif)
-
 ### 📊 Estrutura do Relatório
 
 #### 1. Visão Geral (Jan-Mar 2024)
+![Visão Geral](https://i.imgur.com/npdLVAN.gif)
 **Insight Central**  
 Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 
@@ -40,6 +39,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 - Meses: Jan, Fev, Mar
 
 #### 2. Estudo de Caso (Impacto das Campanhas)
+![Estudo de caso](https://i.imgur.com/vbQVIK5.gif)
 **Problema Identificado**  
 - Tempo médio de resposta: 76 horas
 - Campanhas genéricas geravam 135 leads/mês
@@ -58,6 +58,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 - Período: Jan-Abr 2024
 
 #### 3. Resultados Pós-Otimização
+![Resultado 1](https://i.imgur.com/N3Eq0Eu.gif)
 **Performance Trimestral**  
 - Crescimento de 358,9% nas vendas (Q2 vs Q1)
 - Aumento de 301,97% em leads qualificados
@@ -70,6 +71,7 @@ Média de conversão de vendas de apenas 2,64% contra benchmark do setor
 - Período: 1º Semestre 2024
 
 #### 4. Perfil do Cliente Ideal
+![Resultado 2](https://i.imgur.com/nO4sisF.gif)
 **Características-Chave**  
 - Cargos: CTO (32%), Diretor TI (28%), Gerente TI (24%)
 - Porte: Empresas >50 funcionários (89%)
